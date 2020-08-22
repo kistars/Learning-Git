@@ -4,9 +4,11 @@
 int main()
 {
     int a = 1;
+    int c = 2;
     int b = 2;
     printf("%d\n", a + b);
-    int c = 3;
+    printf(a);
     printf("%d\n", c + 1);
     return 0;
 }
+
