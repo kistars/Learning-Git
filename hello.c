@@ -9,7 +9,7 @@ int main()
 {
     int a = 1;
     int c = 2;
-    int b = 2;
+    int b = 3333333333;
     printf("%d\n", a + b);
     printf(a);
     printf("%d\n", c + 4);
