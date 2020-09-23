@@ -14,7 +14,8 @@ int main()
     printf(a);
     printf("%d\n", c + 4);
 
-    printHello()
+    printHello();
+    printf("\n");
 
     return 0;
 }
