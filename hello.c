@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void printHello() {
+    printf("Hello world!");
+}
+
 int main()
 {
     int a = 1;
@@ -9,6 +13,9 @@ int main()
     printf("%d\n", a + b);
     printf(a);
     printf("%d\n", c + 4);
+
+    printHello()
+
     return 0;
 }
 
