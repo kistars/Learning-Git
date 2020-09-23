@@ -9,7 +9,11 @@ int main()
 {
     int a = 1;
     int c = 2;
+<<<<<<< HEAD
     int b = 3333333333;
+=======
+    int b = 22222;
+>>>>>>> 651a90e... xika modify
     printf("%d\n", a + b);
     printf(a);
     printf("%d\n", c + 4);
